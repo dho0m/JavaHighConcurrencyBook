@@ -2,8 +2,6 @@ package com.blankjor.parallelsearch;
 
 import java.util.concurrent.ExecutionException;
 
-import org.omg.Messaging.SyncScopeHelper;
-
 /**
  * @desc 测试任务
  * @author Blankjor
